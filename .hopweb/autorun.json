@@ -1,0 +1,6 @@
+{
+    "title": "BurgerExam",
+    "message": "由 Burger Studio 开发的简易测验系统，利用 JSON 来存储测验数据，简单修改即可制作自己的小测验。\n点击下方按钮来编辑 exam.json。",
+    "target": "exam.json",
+    "previewability": false
+}

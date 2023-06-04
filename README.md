@@ -10,8 +10,8 @@
 - [x] 每次测验结束后记录结果数据
 - [x] 可在页面中嵌入自定义代码
 # 使用方法  
-简单了解 JSON 语法，克隆本仓库并修改其中的 data.json：
-![data.json 示例](https://bgexam.netlify.app/Screenshot_20230604_172110_bin.mt.plus.jpg)
+简单了解 JSON 语法，克隆本仓库并修改其中的 exam.json：
+![exam.json 示例](https://bgexam.netlify.app/Screenshot_20230604_172110_bin.mt.plus.jpg)
 - title：测验标题
 - description：测验描述，在答题前显示
 - time：测验限时（单位：秒）
