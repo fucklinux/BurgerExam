@@ -16,7 +16,7 @@
 - description：测验描述，在答题前显示
 - time：测验限时（单位：秒）
 - questions[n].question：一道题的题目
-- questions[n].answer：一道题的正确解答
+- questions[n].answer：一道题的正确解答（若有多个正确解答，把它编辑为数组即可，如 ["答案1", "答案2"]）
 - questions[n].resolve：一道题的答案解析
 - customer：页面中的自定义 HTML 代码，显示在卡片下方
 - 若要添加/移除题目，只需添加/移除 questions 数组中的对象。此数组中对象的顺序即为答题时题目的顺序。
